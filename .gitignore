@@ -128,8 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# IDE
+#IDE
 .vscode
 
-# results directories
-opinions
+
+#results directories
+reviews
+
+#Plots
+plots
